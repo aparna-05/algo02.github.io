@@ -1,1 +1,2 @@
-# algo02.github.io
+# collisionAlgorithm
+Algorithm to detect collision between two objects
